@@ -1,5 +1,6 @@
 # Instalace
 (Návod je převzatý [odsud](https://github.com/lutydlitatova/python-jaro-2022/blob/main/INSTALACE.md))
+
 V kurzu budeme pracovat s programovacím jazykem [Python](https://www.python.org/) v prostředí [Visual Studio Code](https://code.visualstudio.com/). Pokud tyto nástroje ještě nemáš nainstalované, níže najdeš instrukce k instalaci.
 
 > V této sekci z velké části využíváme existujících instalačních návodů ze stránky https://kodim.cz/czechitas/uvod-do-progr/priprava/jazyky-nastroje , s mírnými úpravami.
@@ -80,6 +81,8 @@ python3
 ```
 Pokud je vše v pořádku, měly by se po pár krypticky vypadajících výpisech ukázat tři zobáčky `>>>` a kurzor. To znamená, že Python je na vás připraven.
 
+Pokud by něco nefungovalo, první zkus zavřít Visual Studio Code a znovu ho otervřít.
+
 
 ## Nastavení VS Code (nepovinné)
 Aby se nám ve VS Code dobře programovalo, uložíme si některá užitečná nastavení. Spusť VS Code a z horního menu vyber **View → Command Palette...**. Do textového políčka zkopíruj tento text:
@@ -116,7 +119,3 @@ Pro jednodušší spouštění programů a automatickou kontrolu syntaxe Pythonu
 2. Do zobrazeného vyhledávacího pole zadej "python"
 
 3. Jako jeden z prvních výsledků se ti zobrazí rozšíření *Python*, jehož autorem je Microsoft a má v rohu hvězdičku, která označuje ověřené rozšíření. Toto rozšíření nainstaluj kliknutím na tlačítko **Install** (pokud se ti tlačítko nezobrazuje, rozšíření už pravděpodobně máš nainstalované.).
-
-
-
-
