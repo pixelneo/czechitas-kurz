@@ -1,4 +1,5 @@
 # Instalace
+(Návod je převzatý [odsud](https://github.com/lutydlitatova/python-jaro-2022/blob/main/INSTALACE.md))
 V kurzu budeme pracovat s programovacím jazykem [Python](https://www.python.org/) v prostředí [Visual Studio Code](https://code.visualstudio.com/). Pokud tyto nástroje ještě nemáš nainstalované, níže najdeš instrukce k instalaci.
 
 > V této sekci z velké části využíváme existujících instalačních návodů ze stránky https://kodim.cz/czechitas/uvod-do-progr/priprava/jazyky-nastroje , s mírnými úpravami.
@@ -118,6 +119,4 @@ Pro jednodušší spouštění programů a automatickou kontrolu syntaxe Pythonu
 
 
 
----
 
-Navod je [odsud](https://github.com/lutydlitatova/python-jaro-2022/blob/main/INSTALACE.md)
