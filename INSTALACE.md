@@ -26,7 +26,7 @@ Pokud máš počítač s Windows, následuj tyto kroky:
 
 1. Ujisti se, že máš aktualizovaný systém. To zajistíš nejjednodušeji tak, že svůj počítač restartuješ.
 
-2. Stáhni si instalaci jazyka Python z [tohoto odkazu](https://www.python.org/ftp/python/3.9.10/python-3.9.10-amd64.exe). Stažený soubor spusť. Rozběhne se průvodce instalací.
+2. Stáhni si instalaci jazyka Python z [tohoto odkazu](https://www.python.org/ftp/python/3.9.10/python-3.9.10-amd64.exe). Stažený soubor spusť. Rozběhne se průvodce instalací. *Pokud by ti tato verze Pythonu nefungovala, stačí alespoň 3.6 (dokonce na 99% příkladů by stačila i nižší verze).*
 
 3. Na úvodní obrazovce je **velmi důležité** zaškrtnout volbu *Add Python 3.9 to PATH* (viz obrázek)
 ![Instalace Pythonu na Windows](img/python-instalace-win.jpeg)
